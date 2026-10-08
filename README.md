@@ -2,8 +2,8 @@
 
 A full-stack module prototype for the AIVI Intelligence challenge (Option A). Enter a URL and the API returns a simulated security score (0-100) with a findings summary.
 
-- **Live demo:** <your-vercel-url>
-- **API docs:** <your-render-url>/docs
+- **Live demo:** <https://aivi-scanner.vercel.app>
+- **API docs:** <https://aivi-scanner-api.onrender.com>/docs
 
 ## Stack
 - Frontend: Next.js (App Router), React, TypeScript, Tailwind CSS
